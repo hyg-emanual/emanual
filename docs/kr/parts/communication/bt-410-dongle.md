@@ -35,10 +35,6 @@ sidebar:
 
 ![img](/assets/images/parts/communication/bt-410_dongle_01.png)
 
-**주의**: 제어기의 전원이 반드시 꺼져있는 상태에서 제품을 연결해주세요. 전원이 켜져있는 상태에서 연결시, 오동작 및 고장을 일으킬 수 있습니다.
-{: .notice--warning}
-
-
 # [제품 사양](#제품-사양)
 
 |     항목      |                      세부 내용                      |
@@ -222,7 +218,7 @@ BT-410 동글 드라이버가 PC에 바르게 설치되었는지 확인하는 �
 
 ## [인증 획득](#인증-획득)
 표기되지 않은 인증에 대해서는 별도 문의하시기 바랍니다.
-- KCC, FCC, CE
+- KC, FCC, CE
 
 [R+ Scratch]: /docs/kr/software/rplus2/scratch/
 [CM-150]: /doc/kr/parts/controller/cm-150
