@@ -31,10 +31,6 @@ If BT-410 Dongle is connected to the PC, it can be paired with a BT-410 Slave mo
   - BT-100/110A
   - ZIG-100/110A
 
-`Caution`
-Please make sure to turn off the controller before connecting the Bluetooth module. The device may cause malfunction or be damaged if connected while the controller is turned on.
-{: .notice--warning}
-
 # [Specifications](#specifications)
 
 |               Item               |                  Description                   |
@@ -211,7 +207,7 @@ If you installed RoboPlus, FTDI Driver (USB2DYNAMIXEL, USB Downloader (LN-101) d
 
 ## [Certifications](#certifications)
 Please inquire us for information regarding unlisted certifications.
-- KCC, FCC, CE
+- KC, FCC, CE
 
 [CM-150]: /docs/en/parts/controller/cm-150/
 [CM-200]: /docs/en/parts/controller/cm-200/
